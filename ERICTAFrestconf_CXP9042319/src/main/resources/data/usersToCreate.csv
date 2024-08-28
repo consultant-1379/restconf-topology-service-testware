@@ -1,0 +1,2 @@
+username,firstName,lastName,email,password,enabled,roles,passwordResetFlag
+NeRestConfManager,restconffirstame,restConfname,nemanager@ericsson.com,NeManager@01,true,"SECURITY_ADMIN,Cmedit_Administrator,RESTCONF_Administrator,LinkManagement_Administrator",false

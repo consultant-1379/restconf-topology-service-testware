@@ -1,0 +1,1 @@
+{"ietf-network-topology:link":[{"link-id":"Id-Transport42ML02/CT-1/1/1-Transport42ML01/CT-1/1/1","source":{"source-node":"Transport42ML02","source-tp":"Transport42ML02_1_CT-1/1/1"},"destination":{"dest-node":"Transport42ML01","dest-tp":"Transport42ML01_1_CT-1/1/1"},"supporting-link":[{"link-ref":"Id-Transport42ML02/CT-1/1/1-Transport42ML01/CT-1/1/1"}]}]}

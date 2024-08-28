@@ -1,0 +1,1 @@
+{"ietf-microwave-radio-link:xpic-pairs":{"xpic-pair":[{"enabled":"false"}]}}

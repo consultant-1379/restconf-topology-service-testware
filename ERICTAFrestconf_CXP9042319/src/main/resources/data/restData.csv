@@ -1,0 +1,8 @@
+fTestCaseId,method,url,outputFile,responseCode
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/",restConf.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/yang-library-version",yangVersion.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/data/ietf-yang-library:modules-state",moduleState.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/data/ietf-restconf-monitoring:restconf-state",restConfState.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/data/ietf-network:networks/network=1/ietf-network-topology:link=Id-Transport42ML02%252FCT-1%252F1%252F1-Transport42ML01%252FCT-1%252F1%252F1",linkData.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/data/ietf-network:networks/network=1/node=Transport42ML01/ietf-network-topology:termination-point=Transport42ML01_1_CT-1%252F1%252F1",terminationPoint.txt,"OK"
+"RESTCONF_73620_TAF_Interfaces_TC_02",GET,"/restconf/data/ietf-network:networks/network=1/node=Transport42ML01",,"OK"

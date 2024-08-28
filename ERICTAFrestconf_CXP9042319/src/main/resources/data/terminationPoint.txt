@@ -1,0 +1,1 @@
+{"ietf-network-topology:termination-point":[{"tp-id":"Transport42ML01_1_CT-1/1/1","supporting-termination-point":[{"tp-ref":"Transport42ML01_1_CT-1/1/1"}]}]}

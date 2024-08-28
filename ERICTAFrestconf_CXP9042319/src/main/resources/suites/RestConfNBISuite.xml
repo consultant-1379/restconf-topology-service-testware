@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="RESTCONF_NBI_LongLoop - Ratatouille" verbose="10">
+    <parameter name="suite_name" value="RESTCONF_NBI-suite"/>
+    <test name="RESTCONF_NBI suite">
+        <classes>
+            <class name="com.ericsson.oss.services.restconf.scenario.RestConfManagementScenario"/>
+        </classes>
+    </test>
+</suite>
